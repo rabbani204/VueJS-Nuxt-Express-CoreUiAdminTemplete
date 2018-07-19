@@ -1,0 +1,3 @@
+ sudo npm install caminte-cli -g
+
+mongodb://<dbuser>:<dbpassword>@ds121311.mlab.com:21311/amazingerp
