@@ -2,6 +2,8 @@
 
 A littel work done on Serverside and client side any time one can delete the code and start a new project from here.
 
+And I have used cross database platform Camintes.JS ( cross bd ORM )
+ 
 Process:
 
 1.    Git clone this project
